@@ -1,15 +1,19 @@
 # context
 
-<img align="right" src="./public/scholario.png" width="150px" alt="the logo" />
+<img align="right" src="https://ih1.redbubble.net/image.2647292310.1736/st,small,507x507-pad,600x600,f8f8f8.jpg" width="150px" alt="the logo" />
 
-**Context**, a [hackathon winner](#web3-hackathon-winners) `MVP` for storing and
+**Dessert**, a [hackathon winner](#web3-hackathon-winners) `MVP`, built in a day, for storing and
 verifying certifications using blockchain technology. Organizations can issue
 tamper-proof digital certificates that can be easily verified by third parties.
+
+It is built on top of Arweave, a permanent information storage blockchain, the smart contracts are built on Warp, a WASM based execution layer on top of the L0.
+We used the ArLocal testnet and Arweave.app wallet.
 
 - `Secure` storage of certifications
 - Easy verification of certifications by `third` parties
 - Customizable certificate `templates` for different types of certifications
 - Built-in fraud `prevention` measures to prevent certificate tampering
+- DAO logic for global standard agreements between issuing institutions
 
 # getting started
 
